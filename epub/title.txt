@@ -1,0 +1,11 @@
+---
+title:
+- type: main
+  text: 雨
+creator:
+- role: author
+  text: 小久保 温
+lang: ja
+rights: © 1988 小久保 温, CC BY
+page-progression-direction: rtl
+---
