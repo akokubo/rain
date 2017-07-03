@@ -240,4 +240,11 @@
 
 初出: 小久保温・木下篤芳・岡崎優子編集、「空想科学小説」<span class="tcy">44</span>号 pp.<span class="tcy">32</span>-<span class="tcy">34</span>、東京理科大学ＳＦ研究会、一九八八年一月八日
 
-表紙の写真: [Nicolas Brown](http://unsplash.com/photos/Bi65LFoCYLU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+***
+
+## 本文のライセンス
+この作品(本文)は<a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.ja">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
+
+***
+
+ePubの表紙の写真: [Nicolas Brown](http://unsplash.com/photos/Bi65LFoCYLU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
